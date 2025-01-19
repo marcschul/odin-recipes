@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(66, 66, 66);
+    color: white;
+}
+
+ul {
+    list-style-type: square;
+}
+
+a {
+    color: white;
+}
+
+li {
+    font-family: arial;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
